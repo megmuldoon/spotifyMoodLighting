@@ -16,8 +16,8 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-client_id = "ff76681276c94400b1684f98e510e703"
-client_secret = "75345acd67ef4f518fc253ac5b253283"
+client_id = "CLIENT_ID"
+client_secret = "CLIENT_SECRET"
 
 redirect_uri = "http://example.com"
 
